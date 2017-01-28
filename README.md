@@ -6,9 +6,9 @@ This is a repository containing the files necessary to help you gain a better un
 
 You will need to download the program to run these files, then save them to a folder in which you run them in order to complete the lessons in [Anaconda Navigator](https://www.continuum.io/downloads).
 
-### Steps to Get Started
+### Steps to Get Started    
 
-# [Video Instructions] ()  
+[Video Instructions] ()
 
 or you can follow the instructions listed below:  
 
